@@ -3,6 +3,7 @@
 Hi! I'm an **Engineer** with 8+ months of experience as a **DevOps Engineer** at an AI-based startup, specializing in scripting, automation, and containerized deployments.
 
 **<> What Experience I Have:**
+
 • Upgraded and optimized Dockerfiles (Ubuntu 16.04 → 22.04, Python 3.7 → 3.10.12)  
 • Migrated UAT VMs to production environments across cloud platforms  
 • Automated Kubernetes deployments using Bash scripts  
@@ -14,6 +15,7 @@ Hi! I'm an **Engineer** with 8+ months of experience as a **DevOps Engineer** at
 • Personal project on Auto-scaling LLM server deployment over classroom systems 
 
 **<> What I Can Help You With:**
+
 • Linux administration to resolve your server issue or making cron job
 • Writing Dockerfile to contanierize your application and deploy it
 • Kubernetes microservice monitoring and troubleshooting
@@ -25,6 +27,7 @@ Hi! I'm an **Engineer** with 8+ months of experience as a **DevOps Engineer** at
 • Deployment of LLM models
 
 **<> Things that I am doing**
+
 • Adding Data Engineering skill by completing Bootcamp by Zach Wilson
 • AI is trendy so creating project on building and deploying AI agents
 
